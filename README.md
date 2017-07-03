@@ -10,25 +10,7 @@
 
 
 ## Module 0: Setup Atom for Web Development
-### [Video] Setting up Atom for Web Development
-### [Hands-on] 
-1. Download Atom from https://atom.io/ based on your platform.
-		Reference: http://flight-manual.atom.io/ 
-2. Introduce & install the basic packages for web development:
- - HTML Preview: In Atom, open Preferences (Settings on Windows); Go to Install section Search for atom-html-preview package. Once it found, click Install button to install package. Usage: Press CTRL-SHIFT-H in the editor to open / close the preview pane.
-		Reference: https://atom.io/packages/atom-html-preview 
-Emmet: In Atom, open Preferences (Settings on Windows); Go to Install section Search for emmet package. Once it found, click Install button to install package.  
-		References: 
-https://atom.io/packages/emmet
-Cheat Sheet
-[Video] Emmet For Fast HTML & CSS
-Color Picker: In Atom, open Preferences (Settings on Windows); Go to Install section Search for color-picker package. Once it found, click Install button to install package. Usage: Right click or press CMD-SHIFT-C / CTRL-ALT-C on a color value to open it. 
-		Reference: https://atom.io/packages/color-picker 
-Beautify: In Atom, open Preferences (Settings on Windows); Go to Install section Search for atom-beautify package. Once it found, click Install button to install package. 
-		Reference: https://atom.io/packages/atom-beautify 
-Csscomb: a coding style formatter for CSS to make your style sheets beautiful and consistent. In Atom, open Preferences (Settings on Windows); Go to Install section Search for atom-css-comb package. Once it found, click Install button to install package. 
-		Reference: https://atom.io/packages/atom-css-comb 
-
+- [PDF] https://github.com/GoogleFIR2017/WebDevelopment/blob/master/Module0-SetupAtom.pdf
 
 
 
