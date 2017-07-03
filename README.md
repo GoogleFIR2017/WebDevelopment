@@ -10,7 +10,7 @@
 
 
 ## Module 0: Setup Atom for Web Development
-- [PDF] https://github.com/GoogleFIR2017/WebDevelopment/blob/master/Module0-SetupAtom.pdf
+- [PDF](https://github.com/GoogleFIR2017/WebDevelopment/blob/master/Module0-SetupAtom.pdf)
 
 
 
